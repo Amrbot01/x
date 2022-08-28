@@ -41,7 +41,7 @@ module.exports = {
         global.colong1 = 'Ciss 📸'
         global.colong2 = 'By Haori & Ziv San'
         global.kontak2 = [
-        ['16199961931', 'Ziv San', 'Creator Bot', 'Zivsan@support.com', true],
+        ['6282154156241', 'Ziv San', 'Creator Bot', 'Zivsan@support.com', true],
         ['6282179137771', 'CUTE IQ-MD', 'Bot WhatsApp', 'Just Bot', true]
         ]
         global.bg = await (await fetch(img)).buffer()
